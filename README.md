@@ -21,7 +21,7 @@ Usage:
 from hello_c import c_api
 
 c_api.hello_c()
-c_api.hell2_c()
+c_api.hello2_c()
 ```
 
 
